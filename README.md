@@ -19,7 +19,7 @@ Get the latest installer from [Releases](https://github.com/phoenixaps-solution/
 ## Quick start
 
 1. Download and run `setup-phoenix-aps.exe` as Administrator
-2. Restore the database backups → see [Database Installation Guide](Phoenix-APS-Database-Guide.txt)
+2. Restore the database backups → see [Database Installation Guide](help/documentation/Phoenix_APS_Database_Installation_Guide.pdf)
 
 ## About
 
